@@ -1,0 +1,14 @@
+{
+  "autoload":{
+    "psr-4":{
+      "":"src/"
+    }
+  },
+  "require":{
+    "codeception/codeception": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "facebook/webdriver": "dev-master"
+  }
+}
